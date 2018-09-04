@@ -20,3 +20,15 @@ body.style.background = "linear-gradient(to right,"
  +")" ;
  gradient.textContent = body.style.background +";";
 }
+
+const add = (a,b) => {
+	return a + b ; 
+}
+
+const array1 = [1,2,10];
+
+const double = [];
+
+array1.forEach((num)=>{
+	
+})
